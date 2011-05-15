@@ -1,0 +1,1 @@
+Just load it alongside your flot application and let it rip! Just move around the sliding bar to smooth.
